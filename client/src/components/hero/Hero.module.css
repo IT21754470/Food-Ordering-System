@@ -1,0 +1,142 @@
+.container {
+  
+    height: calc(100vh);
+    width: 100%;
+    overflow: hidden;
+    margin-top:5,5rem;
+    margin-bottom:-5.5rem;
+  }
+
+
+  
+.fistMsg{
+
+  margin-bottom:24px;
+  font-size:32px;
+}
+
+
+  .firstMsg>span{
+    color:bisque;
+    font-weight:bold;
+    font-size:26px;
+  }
+
+.desc{
+  color:#fafafa;
+  font-size:18px;
+  font-weight:300;
+  margin-top:0px;
+  max-width:700px;
+  line-height:30px;
+  font-weight:bold;
+  margin-left: 5px;
+
+}
+
+  .wrapper{
+    height:100%;
+    width:85%;
+    margin:0 auto;
+    display:flex;
+    justify-content:center;
+    gap:15rem;
+
+  }
+
+
+  .manEating {
+    width: 100%;
+    height: 100%;
+    margin-top: 80px;
+    object-fit: cover;
+  }
+  
+  .overlay {
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+    z-index: 1;
+  
+    
+
+  }
+ 
+
+  
+  .title {
+
+    font-family: "Lucida Console", "Courier New", 'Courier New', Courier, monospace;
+    margin-top:100px;
+    margin-right:20px;
+    font-size: 100px; 
+   font-weight:bolder;
+   margin-right: 8px;
+    
+  }
+  
+  
+  .left {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 2rem;
+    position: absolute;
+    top:0; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1; /* Grey text */
+   /* Full width */
+    padding: 20px;
+    margin-left:0; /* Some padding */
+
+   
+  }
+  
+
+  .buttons{
+    margin-top:2rem;
+    display:flex;
+    align-items:center;
+    gap:12px;
+   
+
+
+
+
+  }
+.buttons> button{
+  outline:solid;
+  border:0px solid transparent;
+  padding:0.5rem 1.25 rem;
+  color:#090909;
+  background-color: #ee510e;
+  border-radius:4px;
+  font-size:20px;
+  transition:150ms all;
+  cursor:pointer;
+  
+
+
+}
+.buttons>button:hover{
+  border-color:rgb(13, 13, 14);
+}
+.buttonSee>a{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  text-decoration:none;
+  color:inherit;
+ 
+}
