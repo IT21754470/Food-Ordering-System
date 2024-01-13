@@ -14,3 +14,9 @@ This project is licensed under the MIT License.
 
 # run
 backend-npx nodemon
+![Screenshot (1356)](https://github.com/IT21754470/Food-Ordering-System/assets/110586268/c63c124c-ead4-4d11-995f-92b3de77ef0a)
+![Screenshot (1357)](https://github.com/IT21754470/Food-Ordering-System/assets/110586268/fa4342c5-34e8-43ee-8619-c2c76a6c2753)
+![Screenshot (1358)](https://github.com/IT21754470/Food-Ordering-System/assets/110586268/ab8f7fbb-8d3c-4942-9ec9-a3c278219f18)
+![Screenshot (1359)](https://github.com/IT21754470/Food-Ordering-System/assets/110586268/dbe03ae0-c26c-42ee-bf0b-716a62801582)
+![Screenshot (1360)](https://github.com/IT21754470/Food-Ordering-System/assets/110586268/ef888080-2da8-4b27-8f80-a179c9766b49)
+![Screenshot (1361)](https://github.com/IT21754470/Food-Ordering-System/assets/110586268/4d9d45e1-e5d0-496a-b485-97cca47ab073)
